@@ -81,8 +81,8 @@
         "logoURI": "https://storage.googleapis.com/us-central1-dgc-berlin-0-470cbba9-bucket/tokenlist/osmo%201.png"
       },
       {
-        "name": "Diffusion",
-        "symbol": "DIFF",
+        "name": "Tyche",
+        "symbol": "TCH",
         "chainId": 9000,
         "decimals": 18,
         "address": "0xDFB0eFD25352ef1C233300335CaC7EcF8489D9aF",
