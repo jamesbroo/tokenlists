@@ -8,7 +8,6 @@
     "patch": 0
   },
   "tokens": [
-    [
       {
         "name": "WEVMOS Token",
         "symbol": "WEVMOS",
@@ -89,7 +88,5 @@
         "address": "0xDFB0eFD25352ef1C233300335CaC7EcF8489D9aF",
         "logoURI": "https://tyche-finance.netlify.app/images/logo.svg"
       }
-
-    ]
   ]
 }
