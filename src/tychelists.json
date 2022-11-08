@@ -17,6 +17,14 @@
         "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos-testnet/0x3d486E0fBa11f6F929E99a47037A5cd615636E17/logo.png"
       },
       {
+        "name": "WEVMOS Token",
+        "symbol": "WEVMOS",
+        "address": "0xcc491f589B45d4a3C679016195B3FB87D7848210",
+        "chainId": 9001,
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/evmoswap/default-token-list/main/assets/tokens/evmos-testnet/0x3d486E0fBa11f6F929E99a47037A5cd615636E17/logo.png"
+      },
+      {
         "name": "EvmoSwap Token",
         "symbol": "EMO",
         "address": "0x7cBa32163a8f4c56C846f5C3685E3b7a450c9002",
